@@ -1,10 +1,13 @@
 ### I'm [Cristhian Casierra][website]
 
+[![Website](https://img.shields.io/website?label=cristhiancasierra.fr&style=for-the-badge&url=https://cristhiancasierra.fr)](https://cristhiancasierra.fr)
+
 ## I'm a Developer and Industrial Designer!
-     Currently working in a CRUD desktop app for a French company 
-    - I'm learning C# and C++
-    - Looking for an Intership starting in January 2022
-    - I love Python and 3d Printers!
+
+- Currently working in a CRUD desktop app for a French company 
+- I'm learning C# and C++
+- Looking for an Intership starting in January 2022
+- I love Python and 3d Printers!
 
 ### Contact me:
 
