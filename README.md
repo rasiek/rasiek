@@ -4,9 +4,8 @@
 
 ## I'm a Developer and Industrial Designer!
 
-- Currently working in a CRUD desktop app for a French company 
-- I'm learning C# and C++
-- Looking for an Intership starting in January 2022
+- Currently working as a dotnet developper intern
+- I'm learning C# and VB.NET
 - I love Python and 3d Printers!
 
 ### Contact me:
